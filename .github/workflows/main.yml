@@ -45,6 +45,7 @@ jobs:
           haxelib install flixel-ui
           haxelib install hscript
           haxelib install akifox-asynchttp
+          haxelib install flixel-yc29
           haxelib install flixel-addons
           haxelib install newgrounds
           haxelib install linc_luajit
@@ -90,6 +91,7 @@ jobs:
           haxelib install flixel-ui
           haxelib install hscript
           haxelib install akifox-asynchttp
+          haxelib install flixel-yc29
           haxelib install flixel-addons
           haxelib install newgrounds
           haxelib install linc_luajit
@@ -136,6 +138,7 @@ jobs:
           haxelib install flixel-ui
           haxelib install hscript
           haxelib install akifox-asynchttp
+          haxelib install flixel-yc29
           haxelib install flixel-addons
           haxelib install newgrounds
           haxelib install linc_luajit
@@ -181,6 +184,7 @@ jobs:
           haxelib install flixel-ui
           haxelib install hscript
           haxelib install akifox-asynchttp
+          haxelib install flixel-yc29
           haxelib install flixel-addons
           haxelib install newgrounds
           haxelib install linc_luajit
@@ -244,6 +248,7 @@ jobs:
           haxelib install flixel-ui
           haxelib install hscript
           haxelib install akifox-asynchttp
+          haxelib install flixel-yc29
           haxelib install flixel-addons
           haxelib install newgrounds
           haxelib install linc_luajit
